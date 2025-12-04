@@ -1,0 +1,26 @@
+{
+  "name": "fullstack-be",
+  "version": "1.0.0",
+  "description": "khoa muon hoc node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khoahero1234/NodeJS.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "khoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khoahero1234/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Khoahero1234/NodeJS#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

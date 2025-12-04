@@ -1,1 +1,0 @@
-console.log("xin chào khoa beo")
